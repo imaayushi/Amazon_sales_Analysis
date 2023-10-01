@@ -1,5 +1,5 @@
+<img src="![Amazon](https://github.com/imaayushi/Amazon_sales_Analysis/assets/127472857/e598fd7e-1a50-4ef2-b7bc-e9e42232db6b)" width="2000" height="1500">
 
-![Amazon](https://github.com/imaayushi/Amazon_sales_Analysis/assets/127472857/e598fd7e-1a50-4ef2-b7bc-e9e42232db6b)
 
 
 # Amazon_sales_Analysis
