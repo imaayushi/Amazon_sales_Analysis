@@ -38,7 +38,7 @@ In our comprehensive analysis of the Amazon sales dataset, we explored various a
    - Word clouds were generated for product titles and review content.
    - These word clouds offer visual representations of frequently used words in both titles and reviews.
 
-*Questions :*
+*Questions Addressed:*
 
 1. How many rows and columns are in the dataset?
 2. What are the data types of each column?
