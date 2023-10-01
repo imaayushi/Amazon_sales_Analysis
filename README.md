@@ -1,3 +1,7 @@
+
+
+![Amazon](https://github.com/imaayushi/Amazon_sales_Analysis/assets/127472857/17787002-a5bf-4e2e-8873-d66b3e8e4881)
+
 # Amazon_sales_Analysis
 📊 *Data Analysis Conclusion - Amazon Sales Dataset* 🛍
 
