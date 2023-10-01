@@ -1,6 +1,6 @@
 
 
-![Amazon_2](https://github.com/imaayushi/Amazon_sales_Analysis/assets/127472857/e69dfd83-9af1-4ab5-b956-94498392b72b)
+#![Amazon_2](https://github.com/imaayushi/Amazon_sales_Analysis/assets/127472857/e69dfd83-9af1-4ab5-b956-94498392b72b)
 
 
 # Amazon_sales_Analysis
